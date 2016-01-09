@@ -2,9 +2,7 @@ do
 
 function run(msg, matches)
   return 'Telegram Bot '.. VERSION .. [[ 
-  Checkout https://github.com/pAyDaAr/Iranian_Bot
-  GNU GPL v2 license.
-  @Amir_PaydaaR for more info.]]
+  MAXBOT V2
 end
 
 return {
